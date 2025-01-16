@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my solutions to various LeetCode problems, organized by topic. It is automatically generated every time I submit a solution.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
