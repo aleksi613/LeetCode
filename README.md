@@ -4,6 +4,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
@@ -15,6 +16,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
