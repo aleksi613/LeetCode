@@ -12,6 +12,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/aleksi613/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/aleksi613/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -46,6 +47,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/aleksi613/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
