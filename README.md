@@ -14,4 +14,21 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
