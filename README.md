@@ -5,6 +5,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/aleksi613/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -15,6 +16,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +33,8 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
