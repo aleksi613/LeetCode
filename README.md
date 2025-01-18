@@ -49,6 +49,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aleksi613/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aleksi613/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
