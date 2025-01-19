@@ -11,12 +11,14 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aleksi613/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aleksi613/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/aleksi613/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aleksi613/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aleksi613/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aleksi613/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/aleksi613/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -64,6 +66,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aleksi613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aleksi613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
