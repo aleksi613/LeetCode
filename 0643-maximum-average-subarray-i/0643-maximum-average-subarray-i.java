@@ -1,30 +1,21 @@
-import java.util.ArrayList;
-import java.util.Collections;
-
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
         if (nums.length < k) {
             return 0;
         }
 
-        ArrayList<Double> list = new ArrayList<>();
-        int left = 0;
-        int right = k;
-        double temp = 0;
-
+        double currentSum = 0;
         for (int i = 0; i < k; i++) {
-            temp += nums[i];
-        }
-        list.add(temp / k); 
-
-        while (right < nums.length) {
-            temp = temp - nums[left] + nums[right]; 
-            list.add(temp / k); 
-            left++;
-            right++;
+            currentSum += nums[i];
         }
 
-        double maxMean = Collections.max(list);
-        return maxMean;
+        double maxSum = currentSum;
+
+        for (int i = k; i < nums.length; i++) {
+            currentSum = currentSum - nums[i - k] + nums[i]; 
+            maxSum = Math.max(maxSum, currentSum); 
+        }
+
+        return maxSum / k;
     }
 }
