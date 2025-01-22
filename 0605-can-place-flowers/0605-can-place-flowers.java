@@ -1,7 +1,7 @@
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
 
-        if(flowerbed.length == 0){
+        if(flowerbed.length == 0){ // make sure flowerbed is not empty
             return false;
         }
 
@@ -9,25 +9,26 @@ class Solution {
         int right = flowerbed.length - 1;
 
         int zeroCount = 1;
-        int pair = 0;
+        int plantPair = 0;
 
         while(left <= right){
 
+            // empty flowerplot
             if(flowerbed[left] == 0){
                 left++;
                 zeroCount++;
             } else{
                 left++;
-                pair += (zeroCount - 1) / 2;
-                zeroCount = 0;
+                plantPair += (zeroCount - 1) / 2; // calculate number of planted flowers
+                zeroCount = 0; // reset zero count 
             }
         }
 
-        if (zeroCount > 0) {
-            pair += zeroCount / 2;
+        if (zeroCount > 0) { // calculate for the trailing zeros at the end that never got reset, if any
+            plantPair += zeroCount / 2;
         }
 
-        if (pair >= n){
+        if (plantPair >= n){
             return true;
         } else{
             return false;
