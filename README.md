@@ -94,4 +94,8 @@ This repository contains my solutions to various LeetCode problems, organized by
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/aleksi613/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aleksi613/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/aleksi613/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
