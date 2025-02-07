@@ -42,6 +42,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aleksi613/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/aleksi613/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [3429-special-array-i](https://github.com/aleksi613/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aleksi613/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/aleksi613/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
