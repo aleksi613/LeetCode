@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aleksi613/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
@@ -47,6 +48,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aleksi613/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
