@@ -40,6 +40,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0334-increasing-triplet-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aleksi613/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/aleksi613/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/aleksi613/LeetCode/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/aleksi613/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -90,6 +91,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aleksi613/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/aleksi613/LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/aleksi613/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
