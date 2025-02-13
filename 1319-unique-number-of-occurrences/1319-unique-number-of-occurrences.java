@@ -8,10 +8,7 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        List<Integer> frequencies = new ArrayList<>(map.values());
-
-        for(int i = 0; i < frequencies.size(); i++){
-            int freq = frequencies.get(i);
+        for(int freq : map.values()){
             if(!set.add(freq)){
                 return false;
             }
