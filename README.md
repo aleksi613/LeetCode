@@ -17,6 +17,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aleksi613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/aleksi613/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aleksi613/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0392-is-subsequence) |
@@ -52,6 +53,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aleksi613/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aleksi613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [1319-unique-number-of-occurrences](https://github.com/aleksi613/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aleksi613/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -102,6 +104,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aleksi613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/aleksi613/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aleksi613/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Database
