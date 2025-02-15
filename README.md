@@ -74,12 +74,14 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aleksi613/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/aleksi613/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aleksi613/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aleksi613/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aleksi613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aleksi613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0392-is-subsequence) |
@@ -114,4 +116,8 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aleksi613/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/aleksi613/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aleksi613/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aleksi613/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
