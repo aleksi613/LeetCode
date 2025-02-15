@@ -36,6 +36,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aleksi613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aleksi613/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/aleksi613/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -55,6 +56,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0001-two-sum](https://github.com/aleksi613/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aleksi613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
 | [1319-unique-number-of-occurrences](https://github.com/aleksi613/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aleksi613/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -66,6 +68,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
