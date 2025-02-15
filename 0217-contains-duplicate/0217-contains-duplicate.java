@@ -8,15 +8,12 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
 
         for(int num : nums){
+            if (set.contains(num)) return true;
             set.add(num);
         }
 
         
-        if(set.size() == nums.length){
-            return false;
-        } else {
-            return true;
-        }
+        return false;
         
     }
 }
