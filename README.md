@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/aleksi613/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aleksi613/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aleksi613/LeetCode/tree/master/0283-move-zeroes) |
@@ -32,6 +33,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aleksi613/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aleksi613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
@@ -71,6 +73,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
