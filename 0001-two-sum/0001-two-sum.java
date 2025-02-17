@@ -5,21 +5,14 @@ class Solution {
 
         for(int i = 0; i < nums.length; i++){
 
-            map.put(nums[i], i);
+            int complement = target - nums[i];
 
-        }
-
-        for(int j = 0; j < nums.length; j++){
-
-            int complement = target - nums[j];
-
-            if(map.containsKey(complement) && map.get(complement) != j){
-                return new int[]{map.get(complement), j};
+            if(map.containsKey(complement)){
+                return new int[] {map.get(complement), i};
             }
+
+            map.put(nums[i], i);
         }
-
         return new int[]{};
-
     }
-
 }
