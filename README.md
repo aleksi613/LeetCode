@@ -4,6 +4,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aleksi613/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aleksi613/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -30,6 +31,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aleksi613/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aleksi613/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aleksi613/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
@@ -102,6 +104,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aleksi613/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aleksi613/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aleksi613/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
