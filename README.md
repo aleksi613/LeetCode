@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0412-fizz-buzz](https://github.com/aleksi613/LeetCode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/aleksi613/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aleksi613/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aleksi613/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/aleksi613/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -68,6 +69,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0560-subarray-sum-equals-k](https://github.com/aleksi613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/aleksi613/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aleksi613/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aleksi613/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -80,11 +82,13 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aleksi613/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
+| [1777-determine-if-two-strings-are-close](https://github.com/aleksi613/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
 | ------- |
