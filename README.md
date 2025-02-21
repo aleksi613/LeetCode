@@ -21,6 +21,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aleksi613/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/aleksi613/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aleksi613/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aleksi613/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aleksi613/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aleksi613/LeetCode/tree/master/0412-fizz-buzz) |
@@ -67,6 +68,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aleksi613/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/aleksi613/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/aleksi613/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/aleksi613/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aleksi613/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -82,6 +84,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [0088-merge-sorted-array](https://github.com/aleksi613/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aleksi613/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aleksi613/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aleksi613/LeetCode/tree/master/0242-valid-anagram) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aleksi613/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
