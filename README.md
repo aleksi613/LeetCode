@@ -58,6 +58,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/aleksi613/LeetCode/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/aleksi613/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [2428-equal-row-and-column-pairs](https://github.com/aleksi613/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aleksi613/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/aleksi613/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -74,6 +75,7 @@ This repository contains my solutions to various LeetCode problems, organized by
 | [1392-find-the-difference-of-two-arrays](https://github.com/aleksi613/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/aleksi613/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/aleksi613/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/aleksi613/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +154,9 @@ This repository contains my solutions to various LeetCode problems, organized by
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aleksi613/LeetCode/tree/master/0412-fizz-buzz) |
+| [2428-equal-row-and-column-pairs](https://github.com/aleksi613/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/aleksi613/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
